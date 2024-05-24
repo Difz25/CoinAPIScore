@@ -8,5 +8,5 @@
 | - | - |
 | First | Stop your server. |
 | Two | Go to plugins folder. |
-| Third | Put this plugin in the folder. |
+| Three | Put this plugin in the folder. |
 | Four | Start your server and enjoy. |
